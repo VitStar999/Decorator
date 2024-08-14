@@ -11,7 +11,7 @@ public class Whip extends CondimentDecorator {
 
     @Override
     public String getDescription() {
-        return beverage.getDescription() + ", decorators.Whip";
+        return beverage.getDescription() + ", Whip";
     }
 
     @Override

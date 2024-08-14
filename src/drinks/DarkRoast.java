@@ -3,7 +3,7 @@ package drinks;
 public class DarkRoast extends Beverage {
     @Override
     public String getDescription() {
-        this.description = "drinks.DarkRoast";
+        this.description = "DarkRoast";
         return description;
     }
 
